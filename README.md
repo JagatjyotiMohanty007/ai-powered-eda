@@ -56,7 +56,7 @@ project/
 └── generated_plots/
 ⚙️ Installation
 1️⃣ Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/JagatjyotiMohanty007/ai-powered-eda.git
 
 cd your-repo-name
 2️⃣ Install Python Packages
