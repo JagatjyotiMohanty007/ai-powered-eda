@@ -54,3 +54,39 @@ project/
 ├── requirements.txt
 ├── README.md
 └── generated_plots/
+⚙️ Installation
+1️⃣ Clone Repository
+git clone https://github.com/your-username/your-repo-name.git
+
+cd your-repo-name
+2️⃣ Install Python Packages
+pip install gradio pandas matplotlib seaborn ollama
+3️⃣ Install Ollama
+
+Download and install Ollama:
+
+https://ollama.com
+
+4️⃣ Pull LLM Model
+
+Example:
+
+ollama pull llama3
+
+or
+
+ollama pull mistral
+▶️ Run the Application
+
+Start Ollama:
+
+ollama serve
+
+Run Gradio App:
+
+python app.py
+🌐 Open Web App
+
+After running, open:
+
+http://127.0.0.1:7860
